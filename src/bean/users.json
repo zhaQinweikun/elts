@@ -1,0 +1,45 @@
+[
+{"id":1001,
+ "name":"张飞",
+ "avatar":"avatar/zhangfei.jpg",
+ "password":"1234",
+ "phone":"68357788",
+ "email":"zhangfei@qq.com"
+ },
+{"id":1002,
+ "name":"王菲",
+ "avatar":"avatar/wangfei.jpg",
+ "password":"1234",
+ "phone":"68995588",
+ "email":"wangfei@qq.com"
+ },
+{"id":1003,
+ "name":"刘亦菲",
+ "avatar":"avatar/liuyifei.jpg",
+ "password":"1234",
+ "phone":"68413377",
+ "email":"liuyifei@qq.com"
+ 
+ },
+{"id":1004,
+ "name":"黄飞鸿",
+ "avatar":"avatar/huangfeihong.png",
+ "password":"1234",
+ "phone":"68457788",
+ "email":"huangfeihong@qq.com"
+ },
+{"id":1005,
+ "name":"李菲",
+ "avatar":"avatar/lifei.png",
+ "password":"1234",
+ "phone":"68907788",
+ "email":"lifei@qq.com"
+ },
+{"id":1006,
+ "name":"王晓飞",
+ "avatar":"avatar/wangxiaofei.jpg",
+ "password":"1234",
+ "phone":"13077889966",
+ "email":"wangxiaofei@qq.com"
+ }
+]

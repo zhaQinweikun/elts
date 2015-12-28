@@ -1,0 +1,203 @@
+[
+{
+ "title":"1.关于第一代无线通讯技术说法正确的是___",
+ "optiona":"A.简称1G，1994年出现",
+ "optionb":"B.模拟制式手机",
+ "optionc":"C.提供区域性语音业务",
+ "optiond":"D.通话效果差、保密性能不好，用户的接听范围有限",
+ "answer":"BCD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"2.关于第二代无线通讯技术说法正确的是___",
+ "optiona":"A.数字制式手机，简称2G，1996年出现",
+ "optionb":"B.提供了联网收发数据的功能，如EMAIL",
+ "optionc":"C.2G技术分为窄带TDMA、GSM和CDMA三种",
+ "optiond":"D.CDMA由美国高通公司推出，美国军方采用的通讯技术",
+ "answer":"ABCD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"3.关于3G说法正确的是____",
+ "optiona":"A.高速率数据传送的蜂窝移动通信技术，简称3G",
+ "optionb":"B.下行速度峰值可达3.6Mb/s，上行速度峰值可达384kb/s",
+ "optionc":"C.3G技术分为CDMA2000、WCDMA和TD-SCDMA",
+ "optiond":"D.CDMA2000：中国联通使用的技术，北美地区广泛使用；WCDMA：中国电信使用的技术；TD-SCDMA：中国移动使用的技术",
+ "answer":"ABC",
+ "score":2,
+ "level":1
+},
+{
+ "title":"4.关于4G说法正确的是____",
+ "optiona":"A.第四代移动电话通信标准,简称4G",
+ "optionb":"B.4G(LTE(Long Term Evolution，长期演进技术)是3G的演进",
+ "optionc":"C.4G 数据传输速率的标准是100mb/s",
+ "optiond":"D.4G 数据传输速率的标准是100mbps/s",
+ "answer":"ABD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"5.关于主流智能手机系统说法正确的是____。",
+ "optiona":"A.Android：Google",
+ "optionb":"B.BlackBerryOS(RIM)：黑莓",
+ "optionc":"C.iOS：苹果公司",
+ "optiond":"D.Windows Phone(Windows Mobile)：黑莓",
+ "answer":"AC",
+ "score":2,
+ "level":1
+},
+{
+ "title":"6.Android系统流行的原因有____",
+ "optiona":"A.开源，提供底层源代码",
+ "optionb":"B.Android的开发语言是Java",
+ "optionc":"C.Android系统可定制",
+ "optiond":"D.Android提供了真正的多任务功能",
+ "answer":"ACD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"7.关于Android说法正确的是_____",
+ "optiona":"A.Android一词最早出现于法国作家利尔亚当在1868年发表的科幻小说《未来夏娃》中。他将外表像人的机器起名为Android",
+ "optionb":"B.Android本义指“机器人”，也是Google于2007年11月5日宣布的基于Linux平台的开源手机操作系统的名称",
+ "optionc":"C.Android由操作系统、中间件、用户界面和应用软件组成",
+ "optiond":"D.Android是基于Linux的自由及开放源代码的操作系统，主要使用于移动设备",
+ "answer":"BCD",
+ "score":2,
+ "level":1
+},
+{
+
+ "title":"8.关于Android说法正确的是____",
+ "optiona":"A.第一部Android智能手机发布于2007年10月",
+ "optionb":"B.Android是一种基于Linux的自由及开放源代码的操作系统，最初使用于移动设备，现在正逐渐扩展到平板电脑及其它领域，如电视、数码相机、游戏机、笔记本电脑等",
+ "optionc":"C.Android提供了一个SDK，这个SDK提供了必要的开发工具和API",
+ "optiond":"D.Android的市场占有率第一",
+ "answer":"BCD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"9.关于Android系统架构说法正确的是____",
+ "optiona":"A.Android的系统架构采用了分层的架构",
+ "optionb":"B.Android系统架构从底层到高层依次是应用程序层、应用程序框架层、系统运行库层和Linux内核层",
+ "optionc":"C.Android的内核是Linux kernel，包括安全、存储器管理、程序管理、网络堆栈、驱动程序模型等",
+ "optiond":"D.Android内核提供了显示器驱动、照相机驱动、存储器驱动、进程间通信驱动、键盘驱动、WiFi驱动、音频驱动、电源管理",
+ "answer":"CD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"10.关于SDK说法正确的是____。",
+ "optiona":"A.SDK是Software Development Kits（软件开发工具包）的简称",
+ "optionb":"B.SDK中包含了众多的jar文件",
+ "optionc":"C.SDK3.0之前的Android手机市场占有率最高",
+ "optiond":"D.SDK4.x的Android手机市场占有率第一",
+ "answer":"ABD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"11.关于Android模拟器说法正确的是____。",
+ "optiona":"A.Android模拟器全称Android Virtual Device，简称AVD",
+ "optionb":"B.AVD用于模拟Android手机(简称真机)",
+ "optionc":"C.AVD用于学习、测试Android项目",
+ "optiond":"D.AVD可以在大部分情况下代替真机学习和测试Android程序",
+ "answer":"ABCD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"12.关于Android5.0说法正确的是____",
+ "optiona":"A.Android 5.0系统使用一种新的 Material Design 设计语言，采用这种设计的目的在于统一Android设备的外观和使用体验，不论是手机、平板还是多媒体播放器",
+ "optionb":"B.Android5.0的推出将逐步减少Android碎片化的问题",
+ "optionc":"C.Android支持64位系统",
+ "optiond":"D.优化了对可穿戴设备和车载设备的支持",
+ "answer":"ABCD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"13.关于Android5.0说法正确的是____",
+ "optiona":"A.Android 5.0 系统使用ART取代Dalvik成为默认选项",
+ "optionb":"B.Android5.0使用新的电池模式",
+ "optionc":"C.允许用户卸载移动运营商在设备中预装的应用程序",
+ "optiond":"D.更新了通知功能：来电出现在屏幕上方，允许用户选择接听或挂断。消息、闹铃、低电量提示都将以同样方式呈现",
+ "answer":"ABCD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"14.关于apk说法正确的是____",
+ "optiona":"A.apk是安卓应用的后缀，是Android Package的缩写，即Android安装包(apk)",
+ "optionb":"B.通过将apk文件直接传到Android模拟器或Android手机中执行即可安装",
+ "optionc":"C.apk文件把android sdk编译的工程打包成一个安装程序文件，格式为apk",
+ "optiond":"D.apk文件其实是zip格式，但后缀名被修改为apk",
+ "answer":"ABCD",
+ "score":5,
+ "level":4
+},
+{
+ "title":"15.关于dex说法正确的是____",
+ "optiona":"A.dex是Dalvik VM executes的全称，即Android Dalvik执行程序",
+ "optionb":"B.dex实质上是Java ME的字节码",
+ "optionc":"C.Java的Jar包文件中可以包含众多的.class文件，但.class文件越多，则检索、运行的速度将越慢",
+ "optiond":"D.Android的apk文件将多个.class合并为一个dex，这样会加快检索和运行的速度",
+ "answer":"ACD",
+ "score":2,
+ "level":1
+},
+{
+ "title":"16.关于res文件夹说法正确的是____",
+ "optiona":"A.res文件夹用于存放Android的资源",
+ "optionb":"B.Android资源包括：图片、字符串、菜单、布局、视频、音频、文件",
+ "optionc":"C.drawable-xhdpi：存放高分辨率图形(320像素/英寸)",
+ "optiond":"D.drawable-xxhdpi：存放高分辨率图形(400像素/英寸)",
+ "answer":"ABC",
+ "score":2,
+ "level":1
+},
+{
+ "title":"17.关于res文件夹说法正确的是______。",
+ "optiona":"A.res文件夹中存放的都是可编译的资源",
+ "optionb":"B.res文件夹中的资源在R.java中都有对应的资源索引",
+ "optionc":"C.res文件夹中的文件名可以包含英文字母、数字、下划线",
+ "optiond":"D.res文件夹中的资源出现变更时，系统会首先删除R.java，然后再创建R.java",
+ "answer":"ABD",
+ "score":4,
+ "level":2
+},
+{
+ "title":"18.关于RelativeLayout说法正确的是____",
+ "optiona":"A.RelativeLayou定义的布局被称为相对布局",
+ "optionb":"B.RelativeLayou标签内的控件的位置需要通过与父容器或其它相邻控件的相对位置来确定",
+ "optionc":"C.RelativeLayou标签内控件的默认位置是屏幕左上角",
+ "optiond":"D.RelativeLayou标签内控件的位置不会重叠",
+ "answer":"ABC",
+ "score":4,
+ "level":2
+},
+{
+ "title":"19.关于dp、px和sp说法正确的是____。",
+ "optiona":"A.px在不同分辨率的屏幕上始终表示一个像素",
+ "optionb":"B.px在不同分辨率的屏幕上始终表示的像素值不同",
+ "optionc":"C.dp在不同分辨率的屏幕上表示不同的像素值",
+ "optiond":"D.dp在不同分辨率的屏幕上表示的像素值相同",
+ "answer":"AC",
+ "score":4,
+ "level":2
+},
+{
+ "title":"20.关于相对布局说法正确的是_____。",
+ "optiona":"A.padding属性设置与其它控件的间距",
+ "optionb":"B.layout_margin设置内部间距",
+ "optionc":"C.layout_gravity在相对布局中不起作用",
+ "optiond":"D.以上说法全错",
+ "answer":"D",
+ "score":4,
+ "level":2
+}
+]
